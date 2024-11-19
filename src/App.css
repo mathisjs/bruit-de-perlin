@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(68, 0, 255, 0.51);
+  color: white;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
+
